@@ -47,4 +47,34 @@ Lista de Tarefas:
 (basta colocar - e [])
 (para marca como feita basta apenas colocar um x entre [])
 
+imagens de no máximo 500px
+
+links:
+[Cique aqui](url)
+
+Tabelas:
+Num | Nome | Nota
+---|---|---
+1 | Guilherme | 9
+2 | José | 8
+3 | Arthur | 8,7
+4 | Maria | 9,4
+5 | Roberta | 7,9
+
+Comandos:
+Não entendo direito para que serve o comando `document.getElementById()` da Liguagem JavaScript.
+(basta colocar entre ``)
+
+Códigos:
+Olha meu programa em Python
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+
+```
+(basta colocar entre ```  ```)
+
 -->
