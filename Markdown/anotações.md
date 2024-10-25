@@ -36,7 +36,15 @@ Lista demarcada:
    * Teste
 * Teste
 
-(Basta colocar o *)
+(Basta colocar o * ou -)
 (subitem basta colocar 3 espaços também)
+
+Lista de Tarefas:
+- [x] Teste (feito)
+- [] Teste
+- [] Teste
+
+(basta colocar - e [])
+(para marca como feita basta apenas colocar um x entre [])
 
 -->
