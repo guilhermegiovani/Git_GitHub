@@ -77,4 +77,9 @@ else:
 ```
 (basta colocar entre ```  ```)
 
+emoji:
+:hand:
+:monkey:
+(basta colocar :nome emoji:)
+
 -->
